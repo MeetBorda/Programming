@@ -10,6 +10,7 @@ So start working on issue when you are done then request a pull create and I'll 
 ### Solve as many problems as you can and create pull request for every individual problem and 🌟 this repo for future reference.
 
 ***
+trails
 
 ### Steps to contribute
 # 👉 Fork this repository
